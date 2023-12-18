@@ -468,7 +468,7 @@ html {
   line-height: 132%;
   padding-left: 18px;
   position: relative;
-  max-width: 550px;
+  max-width: 565px;
 }
 .author__square::before {
   content: "“";
@@ -607,7 +607,7 @@ html {
   line-height: 132%;
   max-width: 804px;
   margin: 0 auto;
-  margin-top: 120px;
+  margin-top: 0px;
 }
 
 .footer__tel-wrap {
@@ -922,12 +922,15 @@ html {
   .swiper {
     padding: 0;
   }
+  .footer {
+    padding-top: 60px;
+  }
   .footer__title {
     font-size: 35px;
   }
   .footer__text-bottom {
     font-size: 22px;
-    margin-top: 100px;
+    margin-top: 0px;
   }
   .footer {
     padding-bottom: 35px;
